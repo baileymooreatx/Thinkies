@@ -49,7 +49,7 @@ tended to abandon because it would be too much work.
 **Transformation:** Ask the genie.
 [Thinkie: Ask the Genie](https://tidyfirst.substack.com/p/thinkie-ask-the-genie)  
 
-### Abundance  
+### Abundance 🌟  
 **Pattern:** You’re cutting corners because you have too much to do/not enough time.  
 **Transformation:** What would you do if you had enough time?  
 [Abundance](https://tidyfirst.substack.com/p/abundance)  
@@ -74,14 +74,14 @@ A foundational Thinkie for re-framing obstacles. When stuck on why something
 *can’t* be done, shift to identifying *when* it *can* be done.  
 [Thinkie Tutorial](https://tidyfirst.substack.com/p/thinkie-tutorial)  
   
-### Direct Feedback  
+### Direct Feedback 🌟  
 **Pattern:** Feedback between those who make changes (I’m thinking of programmers, 
 but it could be anyone) and those affected by changes runs through one or more 
 layers.  
 **Transformation:** What would happen if the programmers talked 1x1 with the users?  
 [Direct Feedback](https://tidyfirst.substack.com/p/direct-feedback)  
 
-### Easy Bit  
+### Easy Bit 🌟  
 **Pattern:** You’re paralyzed by the magnitude of the problem facing you.  
 **Transformation:** Pick the absolutely easiest thing to do that will help & do it.  
 [Thinkie: Easy Bit](https://tidyfirst.substack.com/p/thinkie-easy-bit)  
@@ -91,14 +91,14 @@ layers.
 **Transformation:** Increase the interaction of different kinds of resources.  
 [Thinkie: Edges](https://tidyfirst.substack.com/p/thinkie-edges)  
 
-### End To End  
+### End To End 🌟  
 **Pattern:** You have a large, complicated, multi-layered project. Typically, folks 
 will structure the project layer-by-layer, because “efficiency”.  
 **Transformation:** What would it look like if you structured the project to go 
 end-to-end for a tiny subset of the possible inputs instead?  
 [Thinkie: End To End](https://tidyfirst.substack.com/p/thinkie-end-to-end)  
   
-### Force Decision  
+### Force Decision 🌟  
 **Pattern:** There’s a decision that needs to be made, and nobody is making it for no 
 good reason that you are aware of.  
 **Transformation:** “If we had to decide today, what would we decide?”  
@@ -106,13 +106,13 @@ Either you’ll get an answer, in which case you have your decision, or you’ll
 get reasons for not deciding, in which case you know what you need to learn next.  
 [Thinkie: Force Decision](https://tidyfirst.substack.com/p/thinkie-force-decision)  
 
-### Fun Bit  
+### Fun Bit 🌟  
 **Pattern:** You’re paralyzed by the size and complexity of the problem you’re 
 addressing.  
 **Transformation:** Pick the bit of it that will be the most fun & do that.  
 [Thinkie: Fun Bit](https://tidyfirst.substack.com/p/thinkie-fun-bit)  
 
-### Half in Half  
+### Half in Half 🌟  
 **Pattern:** Someone gives you a date for a scope of work.  
 **Transformation:** Ask which half of it you can see in half the time.  
 [Half in Half ](https://tidyfirst.substack.com/p/half-in-half) 
@@ -120,7 +120,7 @@ addressing.
 ### Half Wavelength Shift
 In a multistep process, try skipping some initial steps (a principle behind TDD).  
 
-### Hard Problem
+### Hard Problem 🌟  
 **Pattern:** You’re stuck addressing a hairy problem. Or you’re addressing it, but 
 you have a nagging feeling that you’re missing something important, prioritizing 
 incorrectly.  
@@ -146,7 +146,7 @@ on each other.
 When asked to "go faster," determine if the need is for more throughput, less 
 latency, or lower variance.  
 
-### More General Solution  
+### More General Solution 🌟  
 **Pattern:** You’re stuck solving a complex problem.  
 **Transformation:** You solve a more general problem of which your specific 
 problem is a special case.  
@@ -158,7 +158,7 @@ between two factors over time.
 **Transformation:** Ignore time and graph the two factors as the two axes.  
 [Thinkie: No Time Axis](https://tidyfirst.substack.com/p/thinkie-no-time-axis)  
   
-### "Obviously..."  
+### "Obviously..." 🌟  
 **Pattern:** Someone begins a sentence with, “Obviously…”  
 **Transformation:** Ask yourself what is true if they are wrong. 
 What happens if you make the opposite assumption?  
@@ -167,14 +167,14 @@ What happens if you make the opposite assumption?
 ### One Pass Quickly, One Pass Good  
 Deliver a scaled-down version of everything first, then go back and improve it.  
 
-### Parallel Decision  
+### Parallel Decision 🌟  
 This is the same as Set-Based Design.  
 **Pattern:** You have to decide between two alternatives, the decision is unclear, 
 and the stakes are high.  
 **Transformation:** Why not both?  
 [Thinkie: Parallel Decision](https://tidyfirst.substack.com/p/thinkie-parallel-decision)  
 
-### Put Skin in the Game  
+### Put Skin in the Game 🌟  
 **Pattern:** Someone needs to make better decisions. They have plenty of information. 
 They just aren’t using it well.  
 **Transformation:** Rearrange feedback so the decision maker directly experiences 
