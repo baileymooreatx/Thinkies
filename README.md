@@ -1,3 +1,48 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Introduction](#introduction)
+  - [Key aspects of the Thinkies framework](#key-aspects-of-the-thinkies-framework)
+  - [Thinkie patterns](#thinkie-patterns)
+    - [1, 10, or 100? (Orders of Magnitude)](#1-10-or-100-orders-of-magnitude)
+    - [Ask the Genie](#ask-the-genie)
+    - [Abundance 🌟](#abundance-)
+    - [Agreements](#agreements)
+    - [Aligning Incentive](#aligning-incentive)
+    - [But If You Could...](#but-if-you-could)
+    - [Can't/Because → When/Can](#cantbecause-%E2%86%92-whencan)
+    - [Direct Feedback 🌟](#direct-feedback-)
+    - [Easy Bit 🌟](#easy-bit-)
+    - [Edges](#edges)
+    - [End To End 🌟](#end-to-end-)
+    - [Force Decision 🌟](#force-decision-)
+    - [Fun Bit 🌟](#fun-bit-)
+    - [Half in Half 🌟](#half-in-half-)
+    - [Half Wavelength Shift](#half-wavelength-shift)
+    - [Hard Problem 🌟](#hard-problem-)
+    - [Influence Diagram](#influence-diagram)
+    - [Inhibiting Loop](#inhibiting-loop)
+    - [Latency, Throughput, & Variance](#latency-throughput--variance)
+    - [More General Solution 🌟](#more-general-solution-)
+    - [No Time Axis](#no-time-axis)
+    - ["Obviously..." 🌟](#obviously-)
+    - [One Pass Quickly, One Pass Good](#one-pass-quickly-one-pass-good)
+    - [Parallel Decision 🌟](#parallel-decision-)
+    - [Put Skin in the Game 🌟](#put-skin-in-the-game-)
+    - [Reinforcing Loop AKA positive feedback loop](#reinforcing-loop-aka-positive-feedback-loop)
+    - [Separate Observation from Judgement](#separate-observation-from-judgement)
+    - [Set-Based Design](#set-based-design)
+    - [Survivable?](#survivable)
+    - [Systems Thinking](#systems-thinking)
+    - [TCR: Test && Commit || Revert](#tcr-test--commit--revert)
+    - [Tradeoff Thinking](#tradeoff-thinking)
+    - [Unstick Your Stuck Thinking (General Class)](#unstick-your-stuck-thinking-general-class)
+    - [Win/Win](#winwin)
+    - [Work Backwards](#work-backwards)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Introduction
 
 [Thinkies](https://thinkies.org/) are a collection of around one hundred 
@@ -35,7 +80,9 @@ Kent Beck has not publicly released a single, complete list of all Thinkie
 patterns. The full catalog is **exclusively available to paid subscribers** of
 his [Tidy First?](https://tidyfirst.substack.com/) Substack newsletter, where
 he shares one new Thinkie per week. However, several specific Thinkies have been
-shared publicly in articles, blog posts, and his writing.
+shared publicly in articles, blog posts, and his writing.  
+
+Patterns with a 🌟 are featured at Thinkie World Congress II.  
 
 ### 1, 10, or 100? (Orders of Magnitude)
 Clarify vague estimates by offering choices across orders of magnitude
