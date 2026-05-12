@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
   - [Key aspects of the Thinkies framework](#key-aspects-of-the-thinkies-framework)
-  - [Thinkie patterns](#thinkie-patterns)
+  - [Thinkie Patterns](#thinkie-patterns)
     - [1, 10, or 100? (Orders of Magnitude)](#1-10-or-100-orders-of-magnitude)
     - [Ask the Genie](#ask-the-genie)
     - [Abundance 🌟](#abundance-)
@@ -77,7 +77,9 @@ Can creativity can be systematized through learnable habits?
 * **Goal**: The system aims to answer the frequent question "How did you think of that?" by providing learnable tricks
   of thought that make creative problem-solving more accessible.
 
-## Thinkie patterns
+Start with [Thinkie Tutorial](https://tidyfirst.substack.com/p/thinkie-tutorial).  
+
+## Thinkie Patterns
 
 Kent Beck has not publicly released a single, complete list of all Thinkie
 patterns. The full catalog is **exclusively available to paid subscribers** of
