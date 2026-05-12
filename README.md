@@ -12,6 +12,7 @@
     - [Aligning Incentive](#aligning-incentive)
     - [But If You Could...](#but-if-you-could)
     - [Can't/Because → When/Can](#cantbecause-%E2%86%92-whencan)
+    - [Change Tradeoff Curves](#change-tradeoff-curves)
     - [Direct Feedback 🌟](#direct-feedback-)
     - [Easy Bit 🌟](#easy-bit-)
     - [Edges](#edges)
@@ -31,6 +32,7 @@
     - [Parallel Decision 🌟](#parallel-decision-)
     - [Put Skin in the Game 🌟](#put-skin-in-the-game-)
     - [Reinforcing Loop AKA positive feedback loop](#reinforcing-loop-aka-positive-feedback-loop)
+    - [Search Space](#search-space)
     - [Separate Observation from Judgement](#separate-observation-from-judgement)
     - [Set-Based Design](#set-based-design)
     - [Survivable?](#survivable)
@@ -38,6 +40,7 @@
     - [TCR: Test && Commit || Revert](#tcr-test--commit--revert)
     - [Tradeoff Thinking](#tradeoff-thinking)
     - [Unstick Your Stuck Thinking (General Class)](#unstick-your-stuck-thinking-general-class)
+    - [Wider Scope](#wider-scope)
     - [Win/Win](#winwin)
     - [Work Backwards](#work-backwards)
 
@@ -101,8 +104,9 @@ tended to abandon because it would be too much work.
 **Transformation:** What would you do if you had enough time?  
 [Abundance](https://tidyfirst.substack.com/p/abundance)  
 
-### Agreements
-When locked in argument, pause and list every implicit and explicit agreement
+### Agreements  
+Pattern: You are locked in an argument & you want progress.  
+Transformation: Pause to make a list of implicit and explicit agreement
 already in place. This surfaces common ground and reduces friction.  
 [Thinkie: Agreements](https://tidyfirst.substack.com/p/thinkie-agreements)  
 
@@ -113,13 +117,27 @@ them an incentive that will indirectly require collaboration.
 [Thinkie: Aligning Incentive](https://tidyfirst.substack.com/p/thinkie-aligning-incentive-e6e)  
 
 ### But If You Could...
-When something seems impossible, ask what would happen if it were possible, 
-and explore what's stopping you.  
+**Pattern:** Someone is stuck trying to make progress. They fantasize about 
+what would be required to get unstuck.  
+**Transformation:** You respond with, “But what if you could <do whatever they 
+just said>...”   
+[Thinkie: But If You Could...](https://tidyfirst.substack.com/p/thinkie-but-if-you-could)
 
 ### Can't/Because → When/Can
 A foundational Thinkie for re-framing obstacles. When stuck on why something 
 *can’t* be done, shift to identifying *when* it *can* be done.  
+**Pattern:** "We can't X because Y"  
+**Transform:** "When (not Y), then we can X"  
+**Example:**  "We can't release daily because too many bugs" → 
+"When we have fewer bugs, we can release daily"  
 [Thinkie Tutorial](https://tidyfirst.substack.com/p/thinkie-tutorial)  
+  
+### Change Tradeoff Curves  
+**Pattern:** You’re stalled trying to make progress changing the outcome of a 
+tradeoff.  
+**Transformation:** Rather than trying to change the outcome directly, change 
+the shape of the tradeoff curves.  
+[Thinkie: Change Tradeoff Curves](https://tidyfirst.substack.com/p/thinkie-change-tradeoff-curves)  
   
 ### Direct Feedback 🌟  
 **Pattern:** Feedback between those who make changes (I’m thinking of programmers, 
@@ -165,8 +183,10 @@ addressing.
 [Half in Half ](https://tidyfirst.substack.com/p/half-in-half) 
 
 ### Half Wavelength Shift
-In a multistep process, try skipping some initial steps (a principle behind TDD).  
-
+**Pattern:** You are following a standard, multistep workflow.  
+**Transformation:** Try omitting the first few steps to see if you can achieve 
+the goal more directly or efficiently.  
+  
 ### Hard Problem 🌟  
 **Pattern:** You’re stuck addressing a hairy problem. Or you’re addressing it, but 
 you have a nagging feeling that you’re missing something important, prioritizing 
@@ -190,8 +210,11 @@ on each other.
 [Inhibiting Loop](https://tidyfirst.substack.com/p/inhibiting-loop)  
 
 ### Latency, Throughput, & Variance  
-When asked to "go faster," determine if the need is for more throughput, less 
-latency, or lower variance.  
+**Pattern:** Someone says, “I need you to go faster!” You’re going as fast as 
+you can. What do you do?  
+**Transformation:** The situation is under-constrained. “Go faster!” can mean 
+any of several things. Find out which, then bias towards reducing variance first.  
+[Thinkie: Latency, Throughput, & Variance](https://tidyfirst.substack.com/p/thinkie-latency-throughput-and-variance)  
 
 ### More General Solution 🌟  
 **Pattern:** You’re stuck solving a complex problem.  
@@ -213,6 +236,7 @@ What happens if you make the opposite assumption?
 
 ### One Pass Quickly, One Pass Good  
 Deliver a scaled-down version of everything first, then go back and improve it.  
+[Thinkie: One Pass Quickly, One Pass Good](https://tidyfirst.substack.com/p/thinkie-one-pass-quickly-one-pass)  
 
 ### Parallel Decision 🌟  
 This is the same as Set-Based Design.  
@@ -235,7 +259,14 @@ intervene, it gets even worse.
 with an even number of inhibitions. Go upstream & push one of the effects the 
 opposite direction.  
 [Thinkie: Reinforcing Loop](https://tidyfirst.substack.com/p/thinkie-reinforcing-loop-305)  
-
+  
+### Search Space  
+**Pattern:** You need to act in a context where you can’t predict what the 
+result of actions will be.  
+**Transformation:** Treat the choice of action as moves around a search space. 
+Characterize the space.  
+[Thinkie Search Space](https://tidyfirst.substack.com/p/thinkie-search-space)  
+  
 ### Separate Observation from Judgement  
 **Trigger:** You are getting carried away in your reaction to a situation.  
 **Transformation:** List the externally observable facts about the situation. 
@@ -277,9 +308,24 @@ constraints creatively rather than seeking a single “right” answer.
 A meta-category of Thinkies aimed at breaking cognitive ruts. Includes
 “Can’t/Because” and others taught at the Thinkies World Congress.  
 [Unstick Your Stuck Thinking](https://tidyfirst.substack.com/p/unstick-your-stuck-thinking)
-
+  
+### Wider Scope  
+**Pattern:** You’re stuck thinking about a complicated problem.  
+**Transformation:** Look at the problem in its wider context. What are the 
+“sources & uses” (from Permaculture) of the problem? What feedback loops does 
+it participate in?  
+[Thinkie: Wider Scope](https://tidyfirst.substack.com/p/thinkie-wider-scope)  
+  
 ### Win/Win  
 Make a decision that is good for everyone involved.  
-
+**Pattern:** You’re stuck on a decision because someone is going to be 
+negatively affected.  
+**Transformation:** What are solutions that would be good for everyone?  
+[Thinkie: Win/Win](https://tidyfirst.substack.com/p/thinkie-winwin)  
+  
 ### Work Backwards  
-Start at the desired end state and work your way back to your current position.
+Start at the desired end state and work your way back to your current position.  
+**Pattern:** You’re stuck trying to work forwards from where you are towards 
+your goal.  
+**Transformation:** Instead, start at the goal and work backwards.  
+[Thinkie: Work Backwards](https://tidyfirst.substack.com/p/thinkie-work-backwards)
