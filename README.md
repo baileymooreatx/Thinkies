@@ -25,24 +25,35 @@
     - [Influence Diagram](#influence-diagram)
     - [Inhibiting Loop](#inhibiting-loop)
     - [Latency, Throughput, & Variance](#latency-throughput--variance)
+    - [Legibility](#legibility)
     - [More General Solution 🌟](#more-general-solution-)
+    - [My Perspective](#my-perspective)
+    - [Nash Equilibrium](#nash-equilibrium)
     - [No Time Axis](#no-time-axis)
     - ["Obviously..." 🌟](#obviously-)
     - [One Pass Quickly, One Pass Good](#one-pass-quickly-one-pass-good)
+    - [One Room at a Time](#one-room-at-a-time)
     - [Parallel Decision 🌟](#parallel-decision-)
+    - [Perverse Incentive](#perverse-incentive)
+    - [Prisoners' Dilemma AKA Iteration](#prisoners-dilemma-aka-iteration)
     - [Put Skin in the Game 🌟](#put-skin-in-the-game-)
     - [Reinforcing Loop AKA positive feedback loop](#reinforcing-loop-aka-positive-feedback-loop)
+    - [Reverse Causality](#reverse-causality)
+    - [Sampling Rate](#sampling-rate)
     - [Search Space](#search-space)
     - [Separate Observation from Judgement](#separate-observation-from-judgement)
     - [Set-Based Design](#set-based-design)
     - [Survivable?](#survivable)
     - [Systems Thinking](#systems-thinking)
     - [TCR: Test && Commit || Revert](#tcr-test--commit--revert)
+    - [The Real Question](#the-real-question)
+    - [Tradeoff](#tradeoff)
     - [Tradeoff Thinking](#tradeoff-thinking)
     - [Unstick Your Stuck Thinking (General Class)](#unstick-your-stuck-thinking-general-class)
     - [Wider Scope](#wider-scope)
     - [Win/Win](#winwin)
     - [Work Backwards](#work-backwards)
+    - [Your Position](#your-position)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -207,8 +218,13 @@ on each other.
 [Thinkie: Influence Diagram](https://tidyfirst.substack.com/p/thinkie-influence-diagram)  
 
 ### Inhibiting Loop  
-**Pattern:** You want to improve, but instead you’re going backwards.  
-**Transformation:** Paywall  
+Only available to paid subscribers, so here is a good guess based on Thinkie 
+'Reinforcing Loop.'
+**Pattern:** You encounter a situation where efforts to change are met with 
+increasing resistance.  
+**Transformation:** Identify the balancing forces, map the loop, and consider 
+working with the system rather than against it, perhaps by reducing pressure, 
+shifting goals, or altering the underlying conditions that trigger resistance.  
 [Inhibiting Loop](https://tidyfirst.substack.com/p/inhibiting-loop)  
 
 ### Latency, Throughput, & Variance  
@@ -218,12 +234,30 @@ you can. What do you do?
 any of several things. Find out which, then bias towards reducing variance first.  
 [Thinkie: Latency, Throughput, & Variance](https://tidyfirst.substack.com/p/thinkie-latency-throughput-and-variance)  
 
+### Legibility  
+False precision creates false control  
+**Pattern:** Someone is estimating or counting something that doesn’t matter.  
+**Transformation:** Listen carefully to understand the need they are 
+satisfying with those metrics and find a way to meet that need another way.  
+[Thinkie: Legibility](https://tidyfirst.substack.com/p/thinkie-legibility)  
+  
 ### More General Solution 🌟  
 **Pattern:** You’re stuck solving a complex problem.  
 **Transformation:** You solve a more general problem of which your specific 
 problem is a special case.  
 [Thinkie: More General Solution](https://tidyfirst.substack.com/p/thinkie-more-general-solution)  
 
+### My Perspective
+**Pattern:** You’re having trouble communicating with someone.  
+**Transformation:** Invite them to look at the situation from your perspective.  
+[Thinkie: My Perspective](https://tidyfirst.substack.com/p/thinkie-my-perspective)  
+  
+### Nash Equilibrium  
+**Pattern:** Two or more parties are stuck in a dysfunctional relationship but 
+everyone refuses to change.  
+**Transformation:** Take a step back and show the whole dynamic to all parties.  
+[Thinkie Nash Equilibrium](https://tidyfirst.substack.com/p/thinkie-nash-equilibrium)  
+  
 ### No Time Axis  
 **Pattern:** You’re stuck trying to understand or explain the relationship 
 between two factors over time.  
@@ -240,12 +274,38 @@ What happens if you make the opposite assumption?
 Deliver a scaled-down version of everything first, then go back and improve it.  
 [Thinkie: One Pass Quickly, One Pass Good](https://tidyfirst.substack.com/p/thinkie-one-pass-quickly-one-pass)  
 
+### One Room at a Time  
+Pattern: You are facing a large, complex, or emotionally draining project and 
+feel overwhelmed or stalled.  
+**Transformation:** Focus on completing one small, self-contained unit of the 
+project—like a single room—before moving on. This creates momentum and a sense 
+of accomplishment.  
+**Underlying Principle:** Progress breeds motivation. By achieving a visible, 
+complete result early, you reduce anxiety and build confidence to continue.  
+[One Room At A Time](https://tidyfirst.substack.com/p/one-room-at-a-time)  
+  
 ### Parallel Decision 🌟  
 This is the same as Set-Based Design.  
 **Pattern:** You have to decide between two alternatives, the decision is unclear, 
 and the stakes are high.  
 **Transformation:** Why not both?  
 [Thinkie: Parallel Decision](https://tidyfirst.substack.com/p/thinkie-parallel-decision)  
+
+### Perverse Incentive
+**Pattern:** People are working to sabotage progress towards a desired outcome.  
+**Transformation:** Look at their incentives from their perspective. Change the 
+incentives. The behavior will follow. (Unless you screw up the incentives, which 
+is easy to do.)  
+[Thinkie Perverse Incentive](https://tidyfirst.substack.com/p/thinkie-perverse-incentive)  
+  
+### Prisoners' Dilemma AKA Iteration 
+**Pattern:** Two or more parties are struggling to cooperate.  
+**Transformation:** Model the situation as a Prisoners’ Dilemma. If it fits, 
+apply Thinkie 'Put Skin In The Game' to break the impasse.
+**Note:** This suggests that iteration (taking small, repeated steps) build 
+trust and enable cooperation in situations where parties are hesitant to 
+commit.  
+[Thinkie Prisoners' Dilemma](https://tidyfirst.substack.com/p/thinkie-prisoners-dilemma)  
 
 ### Put Skin in the Game 🌟  
 **Pattern:** Someone needs to make better decisions. They have plenty of information. 
@@ -261,6 +321,17 @@ intervene, it gets even worse.
 with an even number of inhibitions. Go upstream & push one of the effects the 
 opposite direction.  
 [Thinkie: Reinforcing Loop](https://tidyfirst.substack.com/p/thinkie-reinforcing-loop-305)  
+  
+### Reverse Causality  
+**Pattern:** You’ve tried to make a change by Thinkie 'Move Upstream' 
+[ed: not yet written].  
+**Transformation:** Treat the effect as the cause.
+[Thinkie Reverse Causality](https://tidyfirst.substack.com/p/thinkie-reverse-causality)  
+  
+### Sampling Rate
+**Pattern:** You are monitoring a system and feel like you’re missing something.  
+**Transformation:** Increase your sampling rate.  
+[Thinkie: Sampling Rate](https://tidyfirst.substack.com/p/thinkie-sampling-rate)  
   
 ### Search Space  
 **Pattern:** You need to act in a context where you can’t predict what the 
@@ -301,6 +372,20 @@ a mindset of tiny, safe steps where failure automatically reverts, encouraging
 bold experimentation.  
 [Idea Portfolio](https://tidyfirst.substack.com/p/idea-portfolio)  
 
+### The Real Question
+**Pattern:** Someone asks you for information that makes no sense.  
+**Transformation:** Ask, “What’s the real question?”
+[Thinkie: The Real Question](https://tidyfirst.substack.com/p/thinkie-the-real-question)  
+  
+### Tradeoff  
+**Pattern:** Someone is trying to maximize some outcome, perhaps getting 
+frustrated that progress has slowed.  
+**Transformation:** Ask these questions.  
+* How much increase do you need?  
+* What are you giving up as you increase the outcome?  
+* What will increase friction as you increase the outcome?  
+[Thinkie: Tradeoff](https://tidyfirst.substack.com/p/thinkie-tradeoff-be4)  
+  
 ### Tradeoff Thinking
 Recast any situation as a tradeoff space. Use a dozen known tricks to navigate
 constraints creatively rather than seeking a single “right” answer.  
@@ -331,3 +416,10 @@ Start at the desired end state and work your way back to your current position.
 your goal.  
 **Transformation:** Instead, start at the goal and work backwards.  
 [Thinkie: Work Backwards](https://tidyfirst.substack.com/p/thinkie-work-backwards)
+  
+### Your Position  
+**Pattern:** A conversation has gotten stuck short of resolution but the 
+conversation remains promising.  
+**Transformation:** Summarize the other party’s position in a way they would 
+agree with.  
+[Thinkie: Your Position](https://tidyfirst.substack.com/p/thinkie-your-position)  
