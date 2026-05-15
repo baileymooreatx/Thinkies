@@ -134,8 +134,8 @@ them an incentive that will indirectly require collaboration.
 **Pattern:** You’re struggling to explain a concept.  
 **Transformation:** Explain it in terms of another domain your listener 
 already understands.  
-Thinkie: Analogy  
-
+[Thinkie: Analogy](https://tidyfirst.substack.com/p/thinkie-analogy)  
+  
 ### Ask the Genie
 **Pattern:** You have a question, any question, especially a question you have
 tended to abandon because it would be too much work.  
