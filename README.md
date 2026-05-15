@@ -6,37 +6,41 @@
   - [Key aspects of the Thinkies framework](#key-aspects-of-the-thinkies-framework)
   - [Thinkie Patterns](#thinkie-patterns)
     - [1, 10, or 100? (Orders of Magnitude)](#1-10-or-100-orders-of-magnitude)
-    - [Ask the Genie](#ask-the-genie)
     - [Abundance 🌟](#abundance-)
     - [Agreements](#agreements)
     - [Aligning Incentive](#aligning-incentive)
+    - [Analogy ⭐](#analogy-)
+    - [Ask the Genie](#ask-the-genie)
     - [But If You Could...](#but-if-you-could)
-    - [Can't/Because → When/Can](#cantbecause-%E2%86%92-whencan)
+    - [Can't/Because → When/Can ⭐](#cantbecause-%E2%86%92-whencan-)
     - [Change Tradeoff Curves](#change-tradeoff-curves)
-    - [Direct Feedback 🌟](#direct-feedback-)
-    - [Easy Bit 🌟](#easy-bit-)
+    - [Direct Feedback ⭐ 🌟](#direct-feedback--)
+    - [Easy Bit ⭐ 🌟](#easy-bit--)
     - [Edges](#edges)
-    - [End To End 🌟](#end-to-end-)
-    - [Force Decision 🌟](#force-decision-)
-    - [Fun Bit 🌟](#fun-bit-)
-    - [Half in Half 🌟](#half-in-half-)
+    - [End To End ⭐ 🌟](#end-to-end--)
+    - [Exponential Growth](#exponential-growth)
+    - [Force Decision ⭐ 🌟](#force-decision--)
+    - [Fun Bit ⭐ 🌟](#fun-bit--)
+    - [Half in Half ⭐ 🌟](#half-in-half--)
     - [Half Wavelength Shift](#half-wavelength-shift)
-    - [Hard Problem 🌟](#hard-problem-)
+    - [Hard Problem ⭐ 🌟](#hard-problem--)
+    - [Hill Climbing](#hill-climbing)
     - [Influence Diagram](#influence-diagram)
     - [Inhibiting Loop](#inhibiting-loop)
     - [Latency, Throughput, & Variance](#latency-throughput--variance)
     - [Legibility](#legibility)
-    - [More General Solution 🌟](#more-general-solution-)
+    - [More General Solution ⭐ 🌟](#more-general-solution--)
     - [My Perspective](#my-perspective)
     - [Nash Equilibrium](#nash-equilibrium)
     - [No Time Axis](#no-time-axis)
-    - ["Obviously..." 🌟](#obviously-)
+    - ["Obviously..." ⭐ 🌟](#obviously--)
     - [One Pass Quickly, One Pass Good](#one-pass-quickly-one-pass-good)
     - [One Room at a Time](#one-room-at-a-time)
     - [Parallel Decision 🌟](#parallel-decision-)
+    - [Perfect Setup](#perfect-setup)
     - [Perverse Incentive](#perverse-incentive)
     - [Prisoners' Dilemma AKA Iteration](#prisoners-dilemma-aka-iteration)
-    - [Put Skin in the Game 🌟](#put-skin-in-the-game-)
+    - [Put Skin in the Game ⭐ 🌟](#put-skin-in-the-game--)
     - [Reinforcing Loop AKA positive feedback loop](#reinforcing-loop-aka-positive-feedback-loop)
     - [Reverse Causality](#reverse-causality)
     - [Sampling Rate](#sampling-rate)
@@ -72,16 +76,18 @@ Can creativity can be systematized through learnable habits?
 ## Key aspects of the Thinkies framework
 
 * **Categories**: The patterns are organized into areas such as
-    * getting unstuck
-    * decision-making
-    * problem re-framing
-    * system design
-    * process optimization
+    * Getting unstuck
+    * Decision-making
+    * Problem re-framing
+    * System design
+    * Process optimization
 * **Community & Events**: The Thinkies community holds periodic virtual events
   where practitioners share and develop new patterns. Facilitators guide 
   participants in applying these patterns to real-world problems. 
   * **[Thinkies World Congress](https://tidyfirst.substack.com/p/thinkie-world-congress-1)** was held on June 4, 2025,
-    exclusively for paying subscribers of Beck’s Software Design: Tidy First? newsletter.
+    exclusively for paying subscribers of Beck’s Software Design: Tidy First?
+    newsletter. See the Thinkies and the ideas they generated 
+    [here](https://thinkies.org/conferences/twc-1/).  
   * **[Thinkies World Congress II](https://thinkies.org/congress/twc-2/)** scheduled for May 20, 2026
 * **Distribution**: Beck publishes Thinkies on his Substack newsletter, **Tidy First?**, where paid subscribers receive
   a new Thinkie each week along with early access to conference content.
@@ -98,19 +104,14 @@ his [Tidy First?](https://tidyfirst.substack.com/) Substack newsletter, where
 he shares one new Thinkie per week. However, several specific Thinkies have been
 shared publicly in articles, blog posts, and his writing.  
 
-Patterns with a 🌟 are featured at Thinkie World Congress II.  
+Patterns with ⭐ were featured at Thinkie World Congress I.  
+Patterns with 🌟 are featured at Thinkie World Congress II.  
 
 ### 1, 10, or 100? (Orders of Magnitude)
 Clarify vague estimates by offering choices across orders of magnitude
 (e.g., "Is that an hour, a day, or a week?"). Reveals the real scale behind subjective
 judgments.  
 [LinkedIn Post by Kent Beck](https://www.linkedin.com/posts/kentbeck_software-design-tidy-first-kent-beck-activity-7148413425503657984-XpkW)
-
-### Ask the Genie 
-**Pattern:** You have a question, any question, especially a question you have 
-tended to abandon because it would be too much work.  
-**Transformation:** Ask the genie.
-[Thinkie: Ask the Genie](https://tidyfirst.substack.com/p/thinkie-ask-the-genie)  
 
 ### Abundance 🌟  
 **Pattern:** You’re cutting corners because you have too much to do/not enough time.  
@@ -129,14 +130,26 @@ already in place. This surfaces common ground and reduces friction.
 them an incentive that will indirectly require collaboration.  
 [Thinkie: Aligning Incentive](https://tidyfirst.substack.com/p/thinkie-aligning-incentive-e6e)  
 
-### But If You Could...
+### Analogy ⭐  
+**Pattern:** You’re struggling to explain a concept.  
+**Transformation:** Explain it in terms of another domain your listener 
+already understands.  
+Thinkie: Analogy  
+
+### Ask the Genie
+**Pattern:** You have a question, any question, especially a question you have
+tended to abandon because it would be too much work.  
+**Transformation:** Ask the genie.
+[Thinkie: Ask the Genie](https://tidyfirst.substack.com/p/thinkie-ask-the-genie)
+
+### But If You Could...  
 **Pattern:** Someone is stuck trying to make progress. They fantasize about 
 what would be required to get unstuck.  
 **Transformation:** You respond with, “But what if you could <do whatever they 
 just said>...”   
 [Thinkie: But If You Could...](https://tidyfirst.substack.com/p/thinkie-but-if-you-could)
 
-### Can't/Because → When/Can
+### Can't/Because → When/Can ⭐  
 A foundational Thinkie for re-framing obstacles. When stuck on why something 
 *can’t* be done, shift to identifying *when* it *can* be done.  
 **Pattern:** "We can't X because Y"  
@@ -152,14 +165,14 @@ tradeoff.
 the shape of the tradeoff curves.  
 [Thinkie: Change Tradeoff Curves](https://tidyfirst.substack.com/p/thinkie-change-tradeoff-curves)  
   
-### Direct Feedback 🌟  
+### Direct Feedback ⭐ 🌟  
 **Pattern:** Feedback between those who make changes (I’m thinking of programmers, 
 but it could be anyone) and those affected by changes runs through one or more 
 layers.  
 **Transformation:** What would happen if the programmers talked 1x1 with the users?  
 [Direct Feedback](https://tidyfirst.substack.com/p/direct-feedback)  
 
-### Easy Bit 🌟  
+### Easy Bit ⭐ 🌟  
 **Pattern:** You’re paralyzed by the magnitude of the problem facing you.  
 **Transformation:** Pick the absolutely easiest thing to do that will help & do it.  
 [Thinkie: Easy Bit](https://tidyfirst.substack.com/p/thinkie-easy-bit)  
@@ -169,14 +182,21 @@ layers.
 **Transformation:** Increase the interaction of different kinds of resources.  
 [Thinkie: Edges](https://tidyfirst.substack.com/p/thinkie-edges)  
 
-### End To End 🌟  
+### End To End ⭐ 🌟  
 **Pattern:** You have a large, complicated, multi-layered project. Typically, folks 
 will structure the project layer-by-layer, because “efficiency”.  
 **Transformation:** What would it look like if you structured the project to go 
 end-to-end for a tiny subset of the possible inputs instead?  
 [Thinkie: End To End](https://tidyfirst.substack.com/p/thinkie-end-to-end)  
   
-### Force Decision 🌟  
+### Exponential Growth  
+How fast, not how big  
+**Pattern:** Is this small thing competition for this large thing?  
+**Transformation:** Compare growth rates, not absolute size. If the small thing 
+is growing much faster, then yes, take it seriously.
+[Thinkie: Exponential Growth](https://tidyfirst.substack.com/p/thinkie-exponential-growth)  
+  
+### Force Decision ⭐ 🌟  
 **Pattern:** There’s a decision that needs to be made, and nobody is making it for no 
 good reason that you are aware of.  
 **Transformation:** “If we had to decide today, what would we decide?”  
@@ -184,13 +204,13 @@ Either you’ll get an answer, in which case you have your decision, or you’ll
 get reasons for not deciding, in which case you know what you need to learn next.  
 [Thinkie: Force Decision](https://tidyfirst.substack.com/p/thinkie-force-decision)  
 
-### Fun Bit 🌟  
+### Fun Bit ⭐ 🌟  
 **Pattern:** You’re paralyzed by the size and complexity of the problem you’re 
 addressing.  
 **Transformation:** Pick the bit of it that will be the most fun & do that.  
 [Thinkie: Fun Bit](https://tidyfirst.substack.com/p/thinkie-fun-bit)  
 
-### Half in Half 🌟  
+### Half in Half ⭐ 🌟  
 **Pattern:** Someone gives you a date for a scope of work.  
 **Transformation:** Ask which half of it you can see in half the time.  
 [Half in Half ](https://tidyfirst.substack.com/p/half-in-half) 
@@ -200,7 +220,7 @@ addressing.
 **Transformation:** Try omitting the first few steps to see if you can achieve 
 the goal more directly or efficiently.  
   
-### Hard Problem 🌟  
+### Hard Problem ⭐ 🌟  
 **Pattern:** You’re stuck addressing a hairy problem. Or you’re addressing it, but 
 you have a nagging feeling that you’re missing something important, prioritizing 
 incorrectly.  
@@ -208,7 +228,18 @@ incorrectly.
 problem hairy. Technical aspects. Social aspects. Economic. History. Perverse 
 incentives. Uncertainty. Cognitive biases. Absolutely everything.  
 [Thinkie: Hard Problem](https://tidyfirst.substack.com/p/thinkie-hard-problem)  
-
+  
+### Hill Climbing  
+**Pattern:** Something isn’t good enough, but you’re stuck improving it.  
+**Transformation:** Recast the situation as hill climbing.  
+1. Identify a fitness function for the situation. What means “better”?  
+2. Identify a threshold for the fitness function above which you’re satisfied 
+(for the moment — nobody’s satisfied for long).  
+3. Assess the current "hill" you're climbing (your current approach).  
+4. Determine whether the peak of this hill meets your threshold.  
+5. Be prepared to switch to a completely different approach if it won’t.  
+[Thinkie: Hill Climbing](https://tidyfirst.substack.com/p/thinkie-hill-climbing)  
+  
 ### Influence Diagram  
 How do effects affect effects?  
 **Pattern:** You have a big, complicated system that’s acting up and you’d like to 
@@ -241,7 +272,7 @@ False precision creates false control
 satisfying with those metrics and find a way to meet that need another way.  
 [Thinkie: Legibility](https://tidyfirst.substack.com/p/thinkie-legibility)  
   
-### More General Solution 🌟  
+### More General Solution ⭐ 🌟  
 **Pattern:** You’re stuck solving a complex problem.  
 **Transformation:** You solve a more general problem of which your specific 
 problem is a special case.  
@@ -264,7 +295,7 @@ between two factors over time.
 **Transformation:** Ignore time and graph the two factors as the two axes.  
 [Thinkie: No Time Axis](https://tidyfirst.substack.com/p/thinkie-no-time-axis)  
   
-### "Obviously..." 🌟  
+### "Obviously..." ⭐ 🌟  
 **Pattern:** Someone begins a sentence with, “Obviously…”  
 **Transformation:** Ask yourself what is true if they are wrong. 
 What happens if you make the opposite assumption?  
@@ -290,7 +321,13 @@ This is the same as Set-Based Design.
 and the stakes are high.  
 **Transformation:** Why not both?  
 [Thinkie: Parallel Decision](https://tidyfirst.substack.com/p/thinkie-parallel-decision)  
-
+  
+### Perfect Setup  
+**Pattern:** You’re having trouble making progress in a situation.  
+**Transformation:** List the properties that would set the situation up 
+perfectly for success. Back off only reluctantly.  
+[Thinkie: Perfect Setup](https://tidyfirst.substack.com/p/thinkie-perfect-setup)  
+  
 ### Perverse Incentive
 **Pattern:** People are working to sabotage progress towards a desired outcome.  
 **Transformation:** Look at their incentives from their perspective. Change the 
@@ -307,7 +344,7 @@ trust and enable cooperation in situations where parties are hesitant to
 commit.  
 [Thinkie Prisoners' Dilemma](https://tidyfirst.substack.com/p/thinkie-prisoners-dilemma)  
 
-### Put Skin in the Game 🌟  
+### Put Skin in the Game ⭐ 🌟  
 **Pattern:** Someone needs to make better decisions. They have plenty of information. 
 They just aren’t using it well.  
 **Transformation:** Rearrange feedback so the decision maker directly experiences 
